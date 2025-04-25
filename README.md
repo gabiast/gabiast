@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Gabriela
+*Systems Engineer* | Data Science & Big Data Student
 
-<!--
-**gabiast/gabiast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
 
-Here are some ideas to get you started:
+## 📈 Stats
+![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielalopez&show_icons=true&theme=radical)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Contact
+- LinkedIn: [Gabriela López](https://www.linkedin.com/in/tuusuario/)
+- Email: tuemail@ejemplo.com
