@@ -2,10 +2,11 @@
 
 🚀 Systems Engineer | Software Developer | Data Science & Big Data Enthusiast
 
-Welcome to my GitHub! I'm passionate about building scalable solutions, turning data into insights, and using code to solve real-world problems. Here you'll find a collection of my projects in:
+Welcome to my GitHub! I'm passionate about transforming data into insights, solving real-world problems with code, and building meaningful tech solutions in collaborative environments.
 
-🔹 Data Science, Machine Learning & Big Data 
-
-🔹 Backend & API Development
-
-🔹 Frontend Interfaces
+### 📊 Interests & Skills
+- 🧠 Data Science & Machine Learning  
+- 🗃️ Big Data (Hadoop, Spark)  
+- 🐍 Python | 🧮 SQL | 📊 R  
+- ☁️ Cloud Computing & Data Engineering  
+- 🛠️ Backend Development | APIs
