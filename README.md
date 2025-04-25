@@ -1,14 +1,12 @@
-# 👋 Hi, I'm Gabriela
-*Systems Engineer* | Data Science & Big Data Student
+Hi! I'm *Gabriela*, a systems engineer with 5+ years of experience in software development — from simple apps to scalable enterprise solutions. Currently pursuing a Master’s in Big Data & Data Science at Universidad Internacional de Valencia.
 
-## 🔧 Technologies & Tools
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+💡 Passionate about transforming data into insights, solving real-world problems with code, and building meaningful tech solutions in collaborative environments.
 
-## 📈 Stats
-![Gabriela's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielalopez&show_icons=true&theme=radical)
+---
 
-## 📫 Contact
-- LinkedIn: [Gabriela López](https://www.linkedin.com/in/tuusuario/)
-- Email: tuemail@ejemplo.com
+### 📊 Interests & Skills
+- 🧠 Data Science & Machine Learning  
+- 🗃️ Big Data (Hadoop, Spark)  
+- 🐍 Python | 🧮 SQL | 📊 R  
+- ☁️ Cloud Computing & Data Engineering  
+- 🛠️ Backend Development | APIs
