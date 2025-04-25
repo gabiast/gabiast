@@ -1,11 +1,10 @@
-Passionate about transforming data into insights, solving real-world problems with code, and building meaningful tech solutions in collaborative environments.
+# 👩‍💻 Gabriela Astudillo
 
----
+🚀 Systems Engineer | Software Developer | Data Science & Big Data Enthusiast
 
-### 📊 Interests & Skills
-- 🧠 Data Science & Machine Learning  
-- 🗃️ Big Data (Hadoop, Spark)  
-- 🐍 Python | 🧮 SQL | 📊 R  
-- ☁️ Cloud Computing & Data Engineering
-- ⚛️ Frontend Development with React
-- 🛠️ Backend Development | APIs
+Welcome to my GitHub! I'm passionate about building scalable solutions, turning data into insights, and using code to solve real-world problems. Here you'll find a collection of my projects in:
+
+- 🔹 Backend & API Development (Python, Flask, FastAPI)
+- 🔹 Frontend Interfaces with React
+- 🔹 Odoo ERP Customization & Inventory Systems
+- 🔹 Data Science, Machine Learning & Big Data (Hadoop, Spark)
