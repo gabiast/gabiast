@@ -9,4 +9,5 @@ Welcome to my GitHub! I'm passionate about transforming data into insights, solv
 - 🗃️ Big Data (Hadoop, Spark)  
 - 🐍 Python | 🧮 SQL | 📊 R  
 - ☁️ Cloud Computing & Data Engineering  
-- 🛠️ Backend Development | APIs
+- 🛠️ Backend Development
+- ⚛️ Frontend Development  
