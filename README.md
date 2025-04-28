@@ -4,10 +4,7 @@
 
 Welcome to my GitHub! I'm passionate about transforming data into insights, solving real-world problems with code, and building meaningful tech solutions in collaborative environments.
 
-### 📊 Interests & Skills
-- 🧠 Data Science & Machine Learning  
-- 🗃️ Big Data (Hadoop, Spark)  
-- 🐍 Python | 🧮 SQL | 📊 R  
-- ☁️ Cloud Computing & Data Engineering  
-- 🛠️ Backend Development
-- ⚛️ Frontend Development  
+📈 Current Interests
+  - Advanced analytics
+  - AI applications.
+  - Clean code
