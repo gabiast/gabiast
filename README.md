@@ -6,5 +6,5 @@ Welcome to my GitHub! I'm passionate about transforming data into insights, solv
 
 📈 Current Interests
   - Advanced analytics
-  - AI applications.
+  - AI applications
   - Clean code
