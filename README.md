@@ -4,13 +4,12 @@
 
 Welcome to my GitHub! I'm passionate about transforming data into insights, solving real-world problems with code, and building meaningful tech solutions in collaborative environments.
 
-**Current Interests**
-  - Advanced analytics
-  - AI applications
-  - Clean code
-
-
-<br/>
+<h2>💡 Current Interests</h2>
+<ul>
+  <li>📊 Advanced analytics</li>
+  <li>🤖 AI applications</li>
+  <li>🧹 Clean code</li>
+</ul>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
