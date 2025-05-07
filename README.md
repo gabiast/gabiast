@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm passionate about transforming data into insights, solv
 <ul>
   <li>📊 Advanced analytics</li>
   <li>🤖 AI applications</li>
-  <li>🧹 Clean code</li>
+  <li>💎 Clean code</li>
 </ul>
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
