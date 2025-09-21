@@ -15,5 +15,5 @@ Welcome to my GitHub! I'm passionate about transforming data into insights, solv
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,bootstrap,vscode,github,git,figma,java,docker,aws,python" />
-    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,tailwind,nextjs,postgres,mysql,mongodb,cassandra,r,opencv,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,tailwind,nextjs,postgres,mysql,mongodb,cassandra,r,opencv,pycharm,powerbi" /><br>
 </div>
